@@ -1,0 +1,192 @@
+﻿
+body{
+width: 961px;
+margin: auto;
+background-color: #E2ECEE;
+}
+
+.bodydos
+{
+    width:725px;
+}
+
+.contacto{
+border: 1px solid #CED5D7;
+margin-top: 50px;
+background-color: white;
+text-align:center;
+}
+
+.divprinci
+{
+    /*border: 1pt Ridge #01A9DB;*/
+    text-align:left;
+    /*margin-top: 2px;
+    margin-left: 10px;
+    margin-right: 10px;*/
+    padding: 10px;
+}
+
+.boton
+{
+ border-style: none;
+ border-color: inherit;
+ border-width: 0px;
+ font-size:10px;
+ font-family:Verdana,Helvetica;
+ font-weight:bold;
+ color:white;
+ background:#638cb5;
+ width:80px;
+ cursor:pointer;
+        /*border-style:double;*/
+}
+
+.botondos
+{
+ border-style:inset;
+ cursor:pointer;
+ background: #3a7999;
+ color: #f2f2f2;
+ padding: 3px;
+ font-size: 12px;
+ 
+ /*border-radius: 5px;*/
+ position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.MiLabel
+{
+/*border-color: #0080FF; */
+/*border-style:groove; */
+/*background-color: #00BFFF; */
+
+  width: 25%;
+  float: left;
+
+/*color: #045FB4;
+font-family: Arial; 
+font-size: 10pt; 
+font-weight: bold;
+display:block;
+margin:.5em 0 0 0;*/
+}
+
+.titulo
+{
+    /*font-style:inherit;*/
+    color:#01A9DB;
+}
+.txtpeq
+{
+    
+}
+.div
+{
+    /*margin: .4em 0;*/
+    border: 1pt Ridge #045FB4;
+    background-color:#E6E6E6;
+    color:Silver;
+}
+.nombre
+{
+    /*background-color:#0080FF;*/
+    font-weight:bold;
+    color:Black;
+    
+}
+
+.nombrefig
+{
+    /*background-color:#0080FF;*/
+    font-weight:bold;
+    color:Black;
+    background:#04B4AE;
+    
+}
+.nombredos
+{
+    background-color:#BDBDBD;
+    font-weight:bold;
+    color:Black;
+    
+}
+
+.labelinfo
+{
+   /* border: 1pt Ridge #2E9AFE;*/
+   /*font-weight:bold;*/
+   color:#0A2A0A; 
+   background-color:#D8D8D8;
+}
+
+.izquierdo
+{
+    width: 15%;
+    /*height: 500px;*/
+    height: 450px;
+    background-color:#A9BCF5;
+    margin: 5px 5px 5px 5px;
+    float: left;
+    border:2px inset black;
+    text-align:center;
+    cursor:pointer;
+    
+}
+
+.iframe
+{
+    color:Black;
+    font-weight:bold;
+   
+    }
+    
+ .ref
+ {
+     color:Black;
+     font-weight:bold;
+  
+ }
+
+.bgcol
+{
+    background-color:#808B96;
+}
+
+.etiqueta
+{
+    font-family:@SimSun;
+    color:Black;
+    font-size:12px;
+}
+
+
+.button {
+    background-color: #17A589; /* Green */
+    color:White;
+    
+}
+
+.labelmes11
+{
+    color:Black;
+    font-size:18px;
+   font-weight:bold;
+}
+
+table {
+  /*border-collapse: separate;*/
+  border-spacing: 5px 5px;
+}
+
+.label_meses
+{
+    text-align:center;
+}
+
+.bgcoldiv
+{
+    background-image: url("imagenes/fondo_div.jpg");
+}
